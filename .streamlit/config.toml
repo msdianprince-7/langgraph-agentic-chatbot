@@ -1,0 +1,3 @@
+[server]
+# The file watcher walks every transformers module and floods the log; not needed to run the app
+fileWatcherType = "none"
